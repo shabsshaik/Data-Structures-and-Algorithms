@@ -1,1 +1,14 @@
+From this DSA module I wanna learn all the building blocks of optimizing the code and the real world applications of DSA.
+which are more helpful to get hired in a better organization.
+concepts-
+time complexity
+space complexity
+arrays
+linkedlist-single,doubly,circular
+stacks
+queue
+dequeue
+trees
+graphs.
 
+Apart of subject iam seeking to learn the important interview questions and their respective suitable answers.
